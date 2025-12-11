@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Christos!
 
-<!--
-**ChrisIoann/ChrisIoann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently studying **Applied Informatics**.  
+This profile showcases my projects, experiments, and portfolio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+**WordPress Portfolio Site**  
+Check it out here: [wordpress-portfolio-site](https://github.com/ChrisIoann/wordpress-portfolio-site)
+
+![screenshot](https://github.com/ChrisIoann/wordpress-portfolio-site/blob/main/Screenshots/Home_Page.png?raw=true)
+
